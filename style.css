@@ -44,3 +44,8 @@ a, svg {
     align-items: center;
     justify-content: center;
 }
+
+.link {
+    text-decoration: none;
+    color: black;
+}
