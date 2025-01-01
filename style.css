@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+p {
+    font-family: Outfit;
+    text-align: center;
+    font-size: 60px;
+}
+
+.a {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a, svg {
+    height: 100px;
+}
+
+.pump {
+    margin: 10px;
+    height: 60px;
+}
+
+.asdf {
+    display: flex;
+    justify-content: center;
+}
+
+.shader {
+    width: 100%;
+    max-width: 1400px;
+}
+
+.b {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
